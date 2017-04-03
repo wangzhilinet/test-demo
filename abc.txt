@@ -1,3 +1,7 @@
 abc
+<<<<<<< HEAD
 123
 asdfasfas
+=======
+safdsadfasfsd
+>>>>>>> abc
